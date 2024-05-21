@@ -24,7 +24,7 @@ Zarr = "0a941bbe-ad1d-11e8-39d9-ab76183a1d99"
 
 [compat]
 CFTime = "0.1"
-DimensionalData = "0.24"
+DimensionalData = "0.24, 0.27"
 DiskArrayTools = "0.1"
 DiskArrays = "0.2, 0.3"
 FFTW = "1"
