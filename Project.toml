@@ -34,7 +34,7 @@ Polynomials = "1, 2.0, 3"
 StatsBase = "0.32, 0.33, 0.34"
 Tables = "0.2, 1.0"
 WeightedOnlineStats = "0.5, 0.6"
-YAXArrays = "0.5"
+YAXArrays = "0.5, 0.6"
 Zarr = "0.9"
 julia = "1.8"
 
